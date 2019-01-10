@@ -3,5 +3,5 @@
 
 int main()
 {
-	printf("hello hello hello");
+	printf("hello hello hello"); //hello hello niggers
 }
